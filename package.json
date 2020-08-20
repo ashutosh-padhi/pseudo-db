@@ -1,8 +1,8 @@
 {
-  "name": "nodb",
+  "name": "pseudodb",
   "version": "0.1.0",
   "description": "a file based pseudo db, not a real db",
-  "main": "nodb.js",
+  "main": "pseudodb.js",
   "scripts": {
     "test": "mocha"
   },
