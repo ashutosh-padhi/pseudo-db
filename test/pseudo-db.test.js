@@ -4,7 +4,7 @@ var fs = require('fs');
 var rimraf = require('rimraf');
 var { synchronize } = require('../utils');
 
-var { initiateDB } = require('../pseudodb');
+var { initiateDB } = require('../pseudo-db');
 const dbpath = path.join(__dirname, '../db');
 const dbname = 'test';
 
