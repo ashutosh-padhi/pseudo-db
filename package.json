@@ -1,5 +1,5 @@
 {
-  "name": "pseudo-db",
+  "name": "pushtakdb",
   "version": "0.1.0",
   "description": "a file based pseudo db, not a real db",
   "main": "pushtakdb.js",
