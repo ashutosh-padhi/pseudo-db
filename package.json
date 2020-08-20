@@ -1,14 +1,14 @@
 {
   "name": "nodb",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.1.0",
+  "description": "a file based pseudo db, not a real db",
+  "main": "nodb.js",
   "scripts": {
     "test": "mocha"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "ashutosh padhi",
+  "license": "MIT",
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^7.1.2"
