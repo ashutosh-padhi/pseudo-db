@@ -2,7 +2,7 @@
   "name": "pseudo-db",
   "version": "0.1.0",
   "description": "a file based pseudo db, not a real db",
-  "main": "pseudo-db.js",
+  "main": "pushtakdb.js",
   "scripts": {
     "test": "mocha"
   },
